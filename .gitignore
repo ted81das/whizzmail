@@ -1,0 +1,9 @@
+__MACOSX
+.DS_Store
+.idea
+\vendor
+\apps\extensions
+\api
+\assets
+\frontend
+

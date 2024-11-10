@@ -1,0 +1,18 @@
+[
+  {
+    "category": "list_segments",
+    "message": "It will rewind the current date\/time by X hours and use that as a comparison"
+  },
+  {
+    "category": "list_segments",
+    "message": "It will forward the current date\/time by X hours and use that as a comparison"
+  },
+  {
+    "category": "list_segments",
+    "message": "It will rewind the current date\/time by X minutes and use that as a comparison"
+  },
+  {
+    "category": "list_segments",
+    "message": "It will forward the current date\/time by X minutes and use that as a comparison"
+  }
+]

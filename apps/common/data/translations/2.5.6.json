@@ -1,0 +1,10 @@
+[
+  {
+    "category": "notes",
+    "message": "Create new note for {name}"
+  },
+  {
+    "category": "notes",
+    "message": "Update note for {name}"
+  }
+]
